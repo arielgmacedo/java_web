@@ -1,0 +1,4 @@
+com\ariel\model\Usuario.class
+com\ariel\data\BancoUsuario.class
+com\ariel\controller\LoginServlet.class
+com\ariel\controller\CadastroServlet.class
